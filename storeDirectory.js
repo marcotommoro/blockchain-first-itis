@@ -3,8 +3,7 @@ import { filesFromPaths } from 'files-from-path';
 import fs from 'fs';
 import { NFTStorage } from 'nft.storage';
 
-const NFT_STORAGE_TOKEN =
-  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweEEyMmNjNTVEQjlGMmZFNjAyMTcwNjIzRWY2MTg1ZkZhM0U4RjdGOTMiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY4MDQ1MTE3ODg2NSwibmFtZSI6InRlc3QifQ.SuMu40aEfysC0epJhz2Zb1SFqpZKn2gAzlBWCBlyzt8';
+const NFT_STORAGE_TOKEN = '';
 
 const BASEDIR = 'images';
 const METADATADIR = 'metadata';
